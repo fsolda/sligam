@@ -1,0 +1,34 @@
+{
+    "games": [
+        {
+            "name": "Doom Eternal",
+            "artwork": "doometernal.png",
+            "platform": "steam",
+            "code": "782330"
+        },
+        {
+            "name": "Sonic Mania",
+            "artwork": "sonicmania.png",
+            "platform": "steam",
+            "code": "584400"
+        },
+        {
+            "name": "Dusk",
+            "artwork": "dusk.png",
+            "platform": "steam",
+            "code": "519860"
+        },
+        {
+            "name": "Mario",
+            "artwork": "Mario.png",
+            "platform": "dolphin",
+            "code": "D:/Program Files/Dolphin/SuperMarioWii.iso"
+        },
+        {
+            "name": "Need For Speed: The Run",
+            "artwork": "nfstherun.jpg",
+            "platform": "origin",
+            "code": "DR:231088400"
+        }
+    ]
+}
